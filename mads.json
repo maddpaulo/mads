@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Gwapo Quinavite",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/city.PNG",
+    "imageUrl": "https://raw.githubusercontent.com/maddpaulo/mads/master/kinavits.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 16.532708,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Lafayette resort la union",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/maddpaulo/mads/master/lafaayette-luxury-suites.jpg",
     "price": 200,
     "priceCurrency": "PESO",
     "lat": 16.533417,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Gerry`s grill la union",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/maddpaulo/mads/master/gerrys.jpg",
     "price": 150,
     "priceCurrency": "PESO",
     "lat": 16.590576,
